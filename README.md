@@ -1,4 +1,6 @@
 # GABE
+"GABE isn't bytecode execution"
+
 An esolang that really sucks to write in
 
 This esolang technically only has 3 usable inputs, R, A, and E
