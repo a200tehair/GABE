@@ -1,5 +1,5 @@
 # GABE
-"GABE isn't bytecode execution"
+"GABE ain't bytecode execution"
 
 An esolang that really sucks to write in
 
