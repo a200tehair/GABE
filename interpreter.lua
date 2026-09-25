@@ -53,7 +53,7 @@ while r <= #bt do
         local reg = bt[r + 1]
 
         if register[reg] == nil then print("NaR") goto fin end
-        table.remove(bt, reg)
+        table.remove(register, reg)
         r = r + 2
     elseif bt[r] == 3 then -- add to a var
         local reg = bt[r + 1]
