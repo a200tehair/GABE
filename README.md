@@ -27,7 +27,7 @@ It looks like you're screaming at someone in plaintext.
 
 Here's what each opcode does in this forbidden assembly
 <pre>
-1: Set Register/ SET reg arg -- Sets register reg to arg, if this register does not exist, creates it
+1: Set Register/ SET reg arg -- Creates a register at reg with value arg, if that register already exists, error
 2: Remove Register / REM reg -- Removes a register from the table
 3: Add To Register/ ADD reg arg -- Adds arg to reg
 4: Subtract From Register/ SUB reg arg -- Subtracts arg from reg
