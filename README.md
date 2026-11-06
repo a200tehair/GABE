@@ -41,7 +41,7 @@ Here's what each opcode does in this forbidden assembly
 12: Remove Marker / RMM mrk -- Removes a marker
 13: Output Register / OUT reg -- Outputs a register to the terminal
 14: Output Register In ASCII / OAS reg -- Outputs a register to the terminal as an ASCII character
-15: Takes a single user input
+15: Grab User Input / GUI reg -- Takes a single user input and loads its value into memory at reg with the equivalent ASCII code
 </pre>
 
 == Examples ==
