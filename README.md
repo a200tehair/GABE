@@ -44,7 +44,7 @@ Here's what each opcode does in this forbidden assembly
 15: Grab User Input / GUI reg -- Takes a single user input and loads its value into memory at reg with the equivalent ASCII code
 </pre>
 
-== Examples ==
+# Examples
 
 Hello World
 RA RA RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
